@@ -49,27 +49,23 @@ $version = "1.1.1";
                     <li>commit 05</li>
                 </ol>
             </li>
-            <ol>
-                <li>epic-01
-                    <ol>
-                        <li>feat-sw-e01-f01
-                            <ol>
-                                <li>commit 01</li>
-                            </ol>
-                        </li>
-                    </ol>
-                </li>
-            <ol>
-                <li>epic-01
-                    <ol>
-                        <li>feat-sw-e01-f02
-                            <ol>
-                                <li>commit 01</li>
-                            </ol>
-                        </li>
-                    </ol>
-                </li>
-            </ol>
+            <li>epic-01
+                <ol>
+                    <li>feat-sw-e01-f01
+                        <ol>
+                            <li>commit 01</li>
+                            <li>commit 02</li>
+                            <li>commit 03</li>
+                        </ol>
+                    </li>
+                    <li>feat-sw-e01-f02
+                        <ol>
+                            <li>commit 01</li>
+                            <li>commit 02</li>
+                        </ol>
+                    </li>
+                </ol>
+            </li>
         </ol>
     </body>
 </html>
