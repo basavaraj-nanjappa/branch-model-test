@@ -12,7 +12,11 @@ $version = "1.1.0";
         <ol>
             <li>initial commit</li>
             <li>integration-rel-r01</li>
-            <li>feat-sw-df01</li>
+            <li>feat-sw-df01
+                <ol>
+                    <li>commit 01</li>
+                </ol>
+            </li>
         </ol>
     </body>
 </html>
