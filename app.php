@@ -3,15 +3,17 @@ $version = "1.1.1";
 ?>
 
 <html>
-    <head>
-        <title>App</title>
-    </head>
-    <body>
-        <h1>Application is running</h1>
-        <h2>This is version <?php echo $version?></h2>
-        <ol>
-            <li>initial commit</li>
-            <li>integration-rel-r01</li>
+
+<head>
+    <title>App</title>
+</head>
+
+<body>
+    <h1>Application is running</h1>
+    <h2>This is version <?php echo $version ?></h2>
+    <ol>
+        <li>initial commit</li>
+        <li>integration-rel-r01
             <ol>
                 <li>epic-01
                     <ol>
@@ -22,9 +24,17 @@ $version = "1.1.1";
                                 <li>commit 03</li>
                             </ol>
                         </li>
+                        <li>feat-sw-e01-f02
+                            <ol>
+                                <li>commit 01</li>
+                                <li>commit 02</li>
+                            </ol>
+                        </li>
                     </ol>
                 </li>
             </ol>
-        </ol>
-    </body>
+        </li>
+    </ol>
+</body>
+
 </html>
