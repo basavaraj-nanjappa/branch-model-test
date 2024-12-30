@@ -38,6 +38,8 @@ $version = "1.1.1";
                 <ol>
                     <li>commit 01</li>
                     <li>commit 02</li>
+                    <li>commit 03</li>
+                    <li>commit 04</li>
                 </ol>
             </li>
     </ol>
