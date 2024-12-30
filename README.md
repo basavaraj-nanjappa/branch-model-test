@@ -9,7 +9,7 @@ tag main branch as rel-base-r01 (usually previous branch)
 --- Begin release cycle rel-r01 ----
 
 Create integration-rel-r01 from the main branch
-Start a new sprint rel-r01-s01 on integration branch integration-rel-r01
+Start a new sprint rel-r01-s01
     - Create epic-01
         feat-sw-e01-f01
             commit 1
