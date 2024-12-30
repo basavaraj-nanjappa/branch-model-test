@@ -1,5 +1,5 @@
 <?php
-$version = "1.0.0";
+$version = "1.1.0";
 ?>
 
 <html>
@@ -11,6 +11,7 @@ $version = "1.0.0";
         <h2>This is version <?php echo $version?></h2>
         <ol>
             <li>initial commit</li>
+            <li>integration-rel-r01</li>
         </ol>
     </body>
 </html>
