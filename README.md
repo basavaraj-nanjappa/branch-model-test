@@ -9,7 +9,7 @@ tag main branch as rel-base-r01 (usually previous branch)
 --- Begin release cycle rel-r01 ----
 
 Create integration-rel-r01 from the main branch
-Start a new sprint rel-r01-s01 on integration branch integration-rel-r01
+Start a new sprint rel-r01-s01
     - Create epic-01
         feat-sw-e01-f01
             commit 1
@@ -74,12 +74,14 @@ Start a new sprint rel-r01-s02
         commit 1
         commit 2
         commit 3
+        raise PR to integration branch integration-rel-r01 and merge
     Create feat-sw-df03
         commit 1
         commit 2
         commit 3
         commit 4
         commit 5
+        raise PR to integration branch integration-rel-r01 and merge
 End of sprint, Code-freeze
 	tag integration branch for the codefreez
 	create new release branch off the main release-rel-r01-date02
