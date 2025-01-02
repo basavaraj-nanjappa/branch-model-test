@@ -32,17 +32,18 @@ $version = "1.1.1";
                     <li>commit 04</li>
                     <li>commit 05</li>
                 </ol>
-            </li>          
+            </li>
             <li>feat-sw-df03
                 <ol>
                     <li>commit 01</li>
                     <li>commit 02</li>
                     <li>commit 03</li>
                 </ol>
-            </li>        
-            <li>integration-rel-r01 
+            </li>
+            <!-- BEGINNING of Release Cycle 01 -->
+            <li>integration-rel-r01
                 <ol>
-                    <li>epic-01 (rebased)
+                    <li>epic-01
                         <ol>
                             <li>feat-sw-e01-f01
                                 <ol>
@@ -78,6 +79,7 @@ $version = "1.1.1";
                     </li>
                 </ol>
             </li>
+            <!-- END of Release Cycle 01 -->
         </ol>
     </body>
 </html>
