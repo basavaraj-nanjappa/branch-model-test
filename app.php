@@ -28,7 +28,7 @@ $version = "1.1.1";
                 <li>commit 05</li>
             </ol>
         </li>
-        <li>integration-rel-r01
+        <li>integration-rel-r01 (rebased)
             <ol>
                 <li>epic-01
                     <ol>
