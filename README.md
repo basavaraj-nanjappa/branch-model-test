@@ -74,12 +74,14 @@ Start a new sprint rel-r01-s02
         commit 1
         commit 2
         commit 3
+        raise PR to integration branch integration-rel-r01 and merge
     Create feat-sw-df03
         commit 1
         commit 2
         commit 3
         commit 4
         commit 5
+        raise PR to integration branch integration-rel-r01 and merge
 End of sprint, Code-freeze
 	tag integration branch for the codefreez
 	create new release branch off the main release-rel-r01-date02
