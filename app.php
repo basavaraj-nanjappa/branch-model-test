@@ -27,7 +27,7 @@ $version = "1.1.0";
                     <li>commit 05</li>
                 </ol>
             </li>
-            <li>epic-01</li>
+            <li>epic-02</li>
         </ol>
     </body>
 </html>
